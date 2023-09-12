@@ -17,7 +17,7 @@ Certainly, here are the key bullet points for your project's storytelling on Git
    - Encoded categorical values into numerical representations.
    - Applied standardization to handle outliers effectively.
 
-## Feature Selection**:
+## Feature Selection:
    - Selected relevant features by analyzing correlations to the target variable.
 
 ## Model Building:
@@ -35,7 +35,7 @@ Certainly, here are the key bullet points for your project's storytelling on Git
 ## Random Forest Algorithm:
    - Achieved a high accuracy of 96% on the training set and 94% on the testing set.
    - Conducted hyperparameter tuning to optimize the model's performance.
-
+     
 ## Conclusion:
     - The Random Forest algorithm yielded the best results, with a 96% accuracy on the training set and 94% accuracy on the testing set.
     
