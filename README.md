@@ -1,4 +1,4 @@
-# Prediction Health Insurance Using Machine Learning
+# Prediction of Health Insurance Using Machine Learning
 Certainly, here are the key bullet points for your project's storytelling on GitHub:
 
 ## Dataset Gathering
@@ -24,7 +24,7 @@ Certainly, here are the key bullet points for your project's storytelling on Git
    - Split the dataset into training and testing sets for model evaluation.
    - Utilized three machine learning algorithms: Logistic Regression, Decision Tree, and Random Forest.
 
-## Logistic Regression**:
+## Logistic Regression:
    - Performed binary classification due to two classes in the target column.
    - Achieved an accuracy of 88% on the training set and 87% on the testing set.
 
