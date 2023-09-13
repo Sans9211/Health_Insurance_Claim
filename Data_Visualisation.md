@@ -51,4 +51,4 @@
 - Y-Axis: Shows the frequency or count of data points in each bin.
 - Use Cases: Analyzing data distribution, identifying patterns, and understanding data spread.
 - Tools: Easily created using data visualization libraries like Matplotlib (Python) or ggplot2 (R).
-- Interpretation**: Helps visualize the shape, center, and spread of the data, as well as potential outliers.
+- Interpretation: Helps visualize the shape, center, and spread of the data, as well as potential outliers.
