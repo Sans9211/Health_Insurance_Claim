@@ -1,5 +1,4 @@
 # Prediction of Health Insurance Using Machine Learning
-Certainly, here are the key bullet points for your project's storytelling on GitHub:
 
 ## Dataset Gathering
    - Obtained the health insurance claim dataset in CSV format from Kaggle.
