@@ -34,8 +34,9 @@
 ## Random Forest Algorithm:
    - Achieved a high accuracy of 96% on the training set and 94% on the testing set.
    - Conducted hyperparameter tuning to optimize the model's performance.
-     
 ## Conclusion:
-    - The Random Forest algorithm yielded the best results, with a 96% accuracy 
+   - The Random Forest algorithm yielded the best results, with a 96% accuracy 
     on the training set and 94% accuracy on the testing set.
     
+
+     
